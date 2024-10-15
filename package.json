@@ -3,6 +3,17 @@
   "name": "get-defined",
   "module": "index.ts",
   "type": "module",
+  "repository": "waradu/get-defined",
+  "homepage": "https://waradu.dev",
+  "license": "MIT",
+  "keywords": [
+    "get",
+    "set",
+    "go",
+    "defined",
+    "undefined",
+    "maybedefined"
+  ],
   "devDependencies": {
     "@types/bun": "latest"
   },
